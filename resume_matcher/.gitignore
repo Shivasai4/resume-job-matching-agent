@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+pyvenv.cfg
+
+# Bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment secrets
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
